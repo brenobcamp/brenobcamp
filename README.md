@@ -1,7 +1,8 @@
 ### Hi! I'm Breno Campos. I am a college student finding my way in the dev world.
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 👯 My goal is to learn many languages and find the ones I most identify with
+- 🌱 I’m currently learning Python, Java and SQL
+- 🪴 Basic knowledge of HTML, CSS and JavaScript
+- 👯 My goal is to be a back-end developer
 - 😄 Pronouns: he/him
 
 Connect with me:<br>
