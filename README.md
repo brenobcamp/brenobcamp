@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, Java and SQL
 - 🪴 Basic knowledge of HTML, CSS and JavaScript
 - 👯 My goal is to be a back-end developer
+- 📧 How to reach me: brenobatistacampos@gmail.com
 - 😄 Pronouns: he/him
 
 Connect with me:<br>
