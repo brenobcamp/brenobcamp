@@ -1,6 +1,6 @@
 ### Hi! I'm Breno Campos. I am a college student finding my way in the dev world.
 
-- 🌱 I’m currently learning Python,SQL, C# and .NET
+- 🌱 I’m currently learning Python, SQL, C# and .NET
 - 🪴 Basic knowledge of HTML, CSS and JavaScript
 - 👯 My goal is to be a back-end developer
 - 📧 How to reach me: brenobatistacampos@gmail.com
