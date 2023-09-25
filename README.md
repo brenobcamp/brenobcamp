@@ -4,7 +4,6 @@
 - 🌱 DevOps/DevNet
 - 👯 My goal is to be a back-end developer
 - 📧 How to reach me: brenobatistacampos@gmail.com
-- 😄 Pronouns: he/him
 
 Connect with me:<br>
 <a href="mailto:brenobatistacampos@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50px" targe="_blank" class="icon"/></a> &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/breno-batista-campos/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" target="_blank"/></a>
