@@ -1,8 +1,6 @@
 ### Hi! I'm Breno Campos. I am a college student finding my way in the dev world.
 
-- 🐍 Python developer
-- 🌱 DevOps/DevNet
-- 👯 My goal is to be a back-end developer
+- ⚛️ Javascript / Python developer
 - 📧 How to reach me: brenobatistacampos@gmail.com
 
 Connect with me:<br>
